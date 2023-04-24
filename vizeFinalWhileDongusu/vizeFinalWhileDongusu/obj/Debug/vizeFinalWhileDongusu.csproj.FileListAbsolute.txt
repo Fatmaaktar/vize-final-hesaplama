@@ -1,0 +1,7 @@
+C:\Users\W10\source\repos\vizeFinalWhileDongusu\vizeFinalWhileDongusu\bin\Debug\vizeFinalWhileDongusu.exe.config
+C:\Users\W10\source\repos\vizeFinalWhileDongusu\vizeFinalWhileDongusu\bin\Debug\vizeFinalWhileDongusu.exe
+C:\Users\W10\source\repos\vizeFinalWhileDongusu\vizeFinalWhileDongusu\bin\Debug\vizeFinalWhileDongusu.pdb
+C:\Users\W10\source\repos\vizeFinalWhileDongusu\vizeFinalWhileDongusu\obj\Debug\vizeFinalWhileDongusu.csproj.AssemblyReference.cache
+C:\Users\W10\source\repos\vizeFinalWhileDongusu\vizeFinalWhileDongusu\obj\Debug\vizeFinalWhileDongusu.csproj.CoreCompileInputs.cache
+C:\Users\W10\source\repos\vizeFinalWhileDongusu\vizeFinalWhileDongusu\obj\Debug\vizeFinalWhileDongusu.exe
+C:\Users\W10\source\repos\vizeFinalWhileDongusu\vizeFinalWhileDongusu\obj\Debug\vizeFinalWhileDongusu.pdb

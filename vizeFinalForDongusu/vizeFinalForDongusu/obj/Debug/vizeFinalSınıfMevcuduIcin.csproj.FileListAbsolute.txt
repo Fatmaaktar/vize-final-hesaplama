@@ -1,0 +1,7 @@
+C:\Users\W10\source\repos\vizeFinalSınıfMevcuduIcin\vizeFinalSınıfMevcuduIcin\bin\Debug\vizeFinalSınıfMevcuduIcin.exe.config
+C:\Users\W10\source\repos\vizeFinalSınıfMevcuduIcin\vizeFinalSınıfMevcuduIcin\bin\Debug\vizeFinalSınıfMevcuduIcin.exe
+C:\Users\W10\source\repos\vizeFinalSınıfMevcuduIcin\vizeFinalSınıfMevcuduIcin\bin\Debug\vizeFinalSınıfMevcuduIcin.pdb
+C:\Users\W10\source\repos\vizeFinalSınıfMevcuduIcin\vizeFinalSınıfMevcuduIcin\obj\Debug\vizeFinalSınıfMevcuduIcin.csproj.CoreCompileInputs.cache
+C:\Users\W10\source\repos\vizeFinalSınıfMevcuduIcin\vizeFinalSınıfMevcuduIcin\obj\Debug\vizeFinalSınıfMevcuduIcin.exe
+C:\Users\W10\source\repos\vizeFinalSınıfMevcuduIcin\vizeFinalSınıfMevcuduIcin\obj\Debug\vizeFinalSınıfMevcuduIcin.pdb
+C:\Users\W10\source\repos\vizeFinalSınıfMevcuduIcin\vizeFinalSınıfMevcuduIcin\obj\Debug\vizeFinalSınıfMevcuduIcin.csproj.AssemblyReference.cache

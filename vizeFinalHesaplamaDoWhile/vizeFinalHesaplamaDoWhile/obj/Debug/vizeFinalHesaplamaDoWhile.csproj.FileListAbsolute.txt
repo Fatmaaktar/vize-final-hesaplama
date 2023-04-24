@@ -1,0 +1,7 @@
+C:\Users\W10\source\repos\vizeFinalHesaplamaDoWhile\vizeFinalHesaplamaDoWhile\bin\Debug\vizeFinalHesaplamaDoWhile.exe.config
+C:\Users\W10\source\repos\vizeFinalHesaplamaDoWhile\vizeFinalHesaplamaDoWhile\bin\Debug\vizeFinalHesaplamaDoWhile.exe
+C:\Users\W10\source\repos\vizeFinalHesaplamaDoWhile\vizeFinalHesaplamaDoWhile\bin\Debug\vizeFinalHesaplamaDoWhile.pdb
+C:\Users\W10\source\repos\vizeFinalHesaplamaDoWhile\vizeFinalHesaplamaDoWhile\obj\Debug\vizeFinalHesaplamaDoWhile.csproj.AssemblyReference.cache
+C:\Users\W10\source\repos\vizeFinalHesaplamaDoWhile\vizeFinalHesaplamaDoWhile\obj\Debug\vizeFinalHesaplamaDoWhile.csproj.CoreCompileInputs.cache
+C:\Users\W10\source\repos\vizeFinalHesaplamaDoWhile\vizeFinalHesaplamaDoWhile\obj\Debug\vizeFinalHesaplamaDoWhile.exe
+C:\Users\W10\source\repos\vizeFinalHesaplamaDoWhile\vizeFinalHesaplamaDoWhile\obj\Debug\vizeFinalHesaplamaDoWhile.pdb
